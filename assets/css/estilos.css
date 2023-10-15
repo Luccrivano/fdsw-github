@@ -20,11 +20,12 @@ body {
   background-position: center;
 }
 #Acerca-de-mi {
-  background-image: url(//53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/como-hacer-una-pagina-web-en-html.jpg?width=610&height=406&name=como-hacer-una-pagina-web-en-html.jpg);
+  background-color: black;
+  /* background-image: url(//53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/como-hacer-una-pagina-web-en-html.jpg?width=610&height=406&name=como-hacer-una-pagina-web-en-html.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  color: rgb(231, 122, 6);
+  color: rgb(207, 188, 169);
 }
 /* Contacto */
 
